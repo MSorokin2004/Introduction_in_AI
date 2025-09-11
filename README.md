@@ -1,1 +1,3 @@
-# Introduction_in_AI
+# Учебный репозиторий
+
+Ноутбуки в папке notebooks, данные в папке datasets
